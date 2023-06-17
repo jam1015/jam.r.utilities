@@ -37,4 +37,3 @@ lsos <- function(..., n = 10000) {
     .ls.objects(..., order.by = "Size", decreasing = TRUE, head = TRUE, n = n)
 }
 
-getwd()
